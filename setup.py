@@ -12,7 +12,7 @@ setup(
     description="A small example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/tjbanks/sampleproject",
+    url="https://github.com/tjbanks/samplepackage",
     download_url=''
     license='MIT',
     install_requires=[],
