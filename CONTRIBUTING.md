@@ -1,7 +1,7 @@
 ## Package Management
 
 Uploading to PyPI
-'''
+```python
 # Install setuptools and wheel
 python3 -m pip install --user --upgrade setuptools wheel
 
@@ -28,7 +28,7 @@ python3 -m pip install --index-url https://test.pypi.org/simple/ example-pkg-you
 # Install from PyPI
 python3 -m pip install example-pkg-your-username
 
-'''
+```
 
 ## Travis Testing
 To be implemented.
